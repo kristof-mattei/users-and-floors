@@ -1,0 +1,4 @@
+﻿DELETE FROM [Users]
+GO
+DELETE FROM [Floors]
+GO

@@ -7,7 +7,7 @@ VALUES
 
 GO
 INSERT INTO 
-    [Users] ([User], [FloorId]) 
+    [Users] ([Name], [FloorId]) 
 VALUES
     ('Josiah Benton', 'Floor 1'), 
     ('Phillip Goodman', 'Floor 1'), 

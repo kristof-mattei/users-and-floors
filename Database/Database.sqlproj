@@ -71,4 +71,7 @@
   <ItemGroup>
     <None Include="Database.publish.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <PreDeploy Include="Script.PreDeployment.Data.sql" />
+  </ItemGroup>
 </Project>
